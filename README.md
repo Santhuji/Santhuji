@@ -33,39 +33,51 @@
 
 # 🔥 Featured Projects
 
-## 📌 Customer Churn Prediction
-- Machine Learning classification model achieving 87% accuracy.
-- Built using Python, Scikit-learn, Pandas, NumPy.
-
-🔗 Repository:
-https://github.com/Santhuji/Customer_Churn_Prediction
-
----
-
-## 📌 Blinkit Demand & Delivery Analysis
+## 📌 Blinkit Analysis
 - Analyzed 100K+ delivery records using Python, SQL, and Power BI.
 - Identified operational inefficiencies and optimized reporting workflows.
 
-🔗 Repository:
-https://github.com/Santhuji/Blinkit_Analysis
+🔗 https://github.com/Santhuji/Blinkit_Analysis
 
 ---
 
-## 📌 Face Mask Detection System
-- Deep learning-based computer vision system using TensorFlow and OpenCV.
-- Processed 5000+ image samples for real-time detection.
+## 📌 Customer Churn Prediction
+- Machine Learning model achieving 87% accuracy for churn prediction.
+- Built using Python, Scikit-learn, Pandas, and NumPy.
 
-🔗 Repository:
-https://github.com/Santhuji/Face_Mask_Detection
+🔗 https://github.com/Santhuji/Customer_Churn_Prediction
 
 ---
 
-## 📌 Grameen Light
-- Smart village-focused application integrating maps, Firebase, and intelligent workflows.
-- Developed using modern Android development architecture.
+## 📌 Face Mask Detection
+- Deep learning computer vision project using TensorFlow and OpenCV.
+- Real-time face mask detection using image processing.
 
-🔗 Repository:
-https://github.com/Santhuji/Grameen-Light
+🔗 https://github.com/Santhuji/Face_Mask_Detection
+
+---
+
+## 📌 Fake Currency Detection
+- AI-based fake currency detection using image processing techniques.
+- Developed using Python and computer vision workflows.
+
+🔗 https://github.com/Santhuji/Fake-Currency-Detection
+
+---
+
+## 📌 GenAI Powered Pull Request Summaries
+- Built AI workflow for automatically generating pull request summaries.
+- Explored Generative AI concepts and automation pipelines using Python.
+
+🔗 https://github.com/Santhuji/GenAI-Powered-Pull-Request-Summaries
+
+---
+
+## 📌 Image Enhancement
+- Image enhancement and preprocessing project using Python.
+- Applied computer vision techniques for improving image quality.
+
+🔗 https://github.com/Santhuji/Image_Enhancement
 
 # 📫 Connect With Me
 
