@@ -72,6 +72,12 @@
 🔗 https://github.com/Santhuji/GenAI-Powered-Pull-Request-Summaries
 
 ---
+## 📌 RAG Document Q&A System
+- Built a Retrieval-Augmented Generation (RAG) based AI application for querying documents using Large Language Models.
+- Implemented document ingestion, embeddings, semantic search, and conversational question-answering workflows.
+- Developed using Python, LangChain, OpenAI, vector databases, and NLP techniques.
+
+🔗 https://github.com/Santhuji/RAG-Document-QA-System
 
 ## 📌 Image Enhancement
 - Image enhancement and preprocessing project using Python.
